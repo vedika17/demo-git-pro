@@ -3,3 +3,5 @@ Hello World
 Changed to check modification
 
 Change 1: for remote repo config settings -u
+
+Change 2 : to test pull operation from remote to local
